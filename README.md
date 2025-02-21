@@ -1,1 +1,2 @@
-# hola-mundo-SIR26
+# team-hmSIR26
+Primer repositorio hola-mundo para realizar pruebas
